@@ -1,4 +1,5 @@
 ### Hi I am EphiDev 👋
+- 🔭 I’m currently working on NexusClient
 
 <!--
 **EphiDev/Pawelv5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
