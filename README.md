@@ -1,6 +1,26 @@
-### EphiDev 👋
-- 🔭 I’m currently working on NexusClient
-- 🌱 I’m currently learning Python.
+<h1 align="center">Hi 👋, I'm EphiDev</h1>
+<h3 align="center">I like programming in python</h3>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawelv5&label=Profile%20views&color=0e75b6&style=flat" alt="pawelv5" /> </p>
+
+- 🔭 I’m currently working on [NexusClient](https://github.com/Pawelv5/NexusClient)
+
+- 🌱 I’m currently learning **Python**
+
+- 📫 How to reach me **ephi211@proton.me**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawelv5&show_icons=true&locale=en&layout=compact" alt="pawelv5" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pawelv5&show_icons=true&locale=en" alt="pawelv5" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pawelv5&" alt="pawelv5" /></p>
+
 
    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
    ░░░░░░░░░▄▀█▀█▄██████████▄▄░░░░░░░░░░░░░░░░░╔╦═╦═╦╦╦╦═╦═════╗░░░░░░░░░
@@ -14,19 +34,10 @@
    ░▐█████████▄▄▄▄▄▄▄▄▄▄▄▄██████▀░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
    ░░░░▀▀████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pawelv5" alt="pawelv5" /></a> </p>
+
+
  
 <!--
-**EphiDev/Pawelv5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- ![Nexus](https://img.shields.io/badge/NexusClient-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-  ![NexusBeta](https://img.shields.io/badge/NexusBeta-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-- 🔭 I’m currently working on NexusClient
-- 🌱 I’m currently learning Python.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: notching
+https://rahuldkjain.github.io/gh-profile-readme-generator/
 -->
