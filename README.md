@@ -4,11 +4,9 @@
 
 - 🔭 I’m currently working on ...
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Linux**
 
 - 📫 How to reach me **ephi211@proton.me**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawelv5&show_icons=true&locale=en&layout=compact" alt="pawelv5" /></p>
